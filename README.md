@@ -1,1 +1,2 @@
 # Emotion-Classification-Based-on-Face-Images
+The objective of the project is to predict the corresponding emotion when given a new face image based on unsupervised and supervised machine learning methods.
